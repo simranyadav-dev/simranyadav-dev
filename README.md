@@ -49,7 +49,7 @@
 ### 🌼 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/simran-link"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/simranyadav-dev-link"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
 
 </p>
 
